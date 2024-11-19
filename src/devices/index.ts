@@ -263,6 +263,7 @@ import somgoms from './somgoms';
 import sonoff from './sonoff';
 import sowilo from './sowilo';
 import spotmau from './spotmau';
+import sprut from './sprut';
 import stelpro from './stelpro';
 import sunricher from './sunricher';
 import swann from './swann';
